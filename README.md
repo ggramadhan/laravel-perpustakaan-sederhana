@@ -1,5 +1,6 @@
 # Sistem Peminjaman Buku (Perpusku)
 ## Instalasi
+ - clone projek ini https://github.com/ggramadhan/laravel-perpustakaan-sederhana.git
  - menjalankan composer update
  - copy dan pastekan .env copy.example
  - jalankan php artisan key:generate
